@@ -4,7 +4,7 @@ import json
 import copy
 
 
-bot = telebot.TeleBot('5111904045:AAH8VIo6dXf1Uz-CddZ818PUOWXzoF0j6t8');
+bot = telebot.TeleBot('5112376568:AAH8ZO-EuO-ePncbzw1TFxP1XfQvwOL2z6s');
 
 
 
